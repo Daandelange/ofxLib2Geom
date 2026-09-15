@@ -21,7 +21,7 @@ osx:
 
 
 linux64:
-    ADDON_LDFLAGS = -l2geom -lgsl -ldouble-conversion
+    ADDON_LDFLAGS =  -lgsl -ldouble-conversion
     #ADDON_INCLUDES = 
     #ADDON_LIBS = libs/2geom/lib/linux64/lib2geom.a
 
